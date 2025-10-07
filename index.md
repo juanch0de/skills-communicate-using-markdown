@@ -8,3 +8,5 @@ int main(){
   return 0;
 }
 ```
+- [ ] Aprender GitHub
+- [x] Crear la cuenta de Github
